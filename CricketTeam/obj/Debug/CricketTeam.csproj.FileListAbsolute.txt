@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\Project\CricketTeam\CricketTeam\obj\Debug\CricketTeam.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Project\CricketTeam\CricketTeam\obj\Debug\CricketTeam.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\Project\CricketTeam\CricketTeam\obj\Debug\CricketTeam.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Project\CricketTeam\CricketTeam\bin\Debug\CricketTeam.exe.config
+C:\Users\moham\source\repos\Project\CricketTeam\CricketTeam\bin\Debug\CricketTeam.exe
+C:\Users\moham\source\repos\Project\CricketTeam\CricketTeam\bin\Debug\CricketTeam.pdb
+C:\Users\moham\source\repos\Project\CricketTeam\CricketTeam\obj\Debug\CricketTeam.exe
+C:\Users\moham\source\repos\Project\CricketTeam\CricketTeam\obj\Debug\CricketTeam.pdb
